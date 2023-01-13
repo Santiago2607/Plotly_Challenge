@@ -13,5 +13,7 @@ After great and long research along with the help of more than 500 candidates th
 3. Lastly, we can see the results of a young lady compared with the last two candidates.
 ![image](https://user-images.githubusercontent.com/113261292/212244020-3b2825a9-2dbf-408a-af58-8b99cf88dfeb.png)
 
+## Summary
+This project does not only show there are bacteria that we can feed by just not taking care of our own personal hygiene, but that independently of gender or age, a person will always have to take in mind that the worst diseases are caused by ourselves and by our fault of not taking care of our own health.  
 
 
